@@ -1,0 +1,6 @@
+git add -i
+4
+*
+7
+git commit -m "new file added"
+git push origin master
