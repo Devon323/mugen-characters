@@ -1,5 +1,6 @@
+git pull
 git add -i
-7
+2
 *
 7
 git commit -m "new character"
