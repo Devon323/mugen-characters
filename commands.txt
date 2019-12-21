@@ -1,4 +1,11 @@
 git add -i
+7
+*
+7
+git commit -m "new character"
+git push origin master
+
+git add -i
 4
 *
 7
